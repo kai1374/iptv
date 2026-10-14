@@ -54,7 +54,7 @@ CCTV-5+体育赛事,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226198
 辽宁都市,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227569/index.m3u8?servicetype=1
 辽宁经济,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227645/index.m3u8?servicetype=1
 辽宁公共,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227575/index.m3u8?servicetype=1
-辽宁体育,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227334/index.m3u8
+辽宁体育,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227642/index.m3u8?servicetype=1
 辽宁生活,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227560/index.m3u8?servicetype=1
 辽宁北方,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227551/index.m3u8?servicetype=1
 辽宁移动,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227328/index.m3u8
