@@ -1,4 +1,4 @@
-央视频道,#genre#  2026年10月14日 23:55:00
+央视频道,#genre#  2026年10月14日 23:59:29
 CCTV-1综合,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227637/index.m3u8?servicetype=1
 CCTV-2财经,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226178/index.m3u8?servicetype=1
 CCTV-3综艺,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227437/index.m3u8?servicetype=1
@@ -144,7 +144,6 @@ CETV4,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226940/index.m3u8?se
 4K高清,#genre#
 CCTV4K超高清,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227623/index.m3u8?servicetype=1
 CCTV16奥林匹克4K,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227709/index.m3u8?servicetype=1
-北京卫视4K,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227629/index.m3u8?servicetype=1
 北京卫视4K,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227656/index.m3u8?servicetype=1
 东方卫视4K,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227539/index.m3u8?servicetype=1
 广东卫视4K,http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227712/index.m3u8?servicetype=1
