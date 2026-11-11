@@ -1,0 +1,18 @@
+# ==========================================================
+# 转发规则表 —— 把这个文件上传到 kai1374/iptv 仓库【根目录】
+#
+# 每行一条：请求路径 = 目标地址
+#   - 以 # 开头的是注释，空行忽略
+#   - 路径可带或不带前导 /
+#   - 只按第一个 = 切分，所以目标 URL 里带 = 也没问题
+#   - 命中后返回 302 跳转，边缘节点不会代理目标内容
+#   - 没写在这里的路径，仍按原逻辑正常代理 iptv 仓库文件
+#   - 改完提交到 main 分支，约 1 分钟内生效
+#   - 删掉某一行（或行首加 #）即可让该路径恢复正常代理
+# ==========================================================
+
+2.txt=https://gh-proxy.com/raw.githubusercontent.com/TVboxorg/TVbox/main/dist/tvbox.json
+
+# 更多示例（去掉行首 # 即启用）：
+# 3.txt=https://example.com/backup.json?token=abc=def
+# /4.txt=https://cdn.jsdelivr.net/gh/user/repo@main/list.txt
