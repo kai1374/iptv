@@ -11,7 +11,7 @@
 #   - 删掉某一行（或行首加 #）即可让该路径恢复正常代理
 # ==========================================================
 
-2.txt=https://gh-proxy.com/raw.githubusercontent.com/TVboxorg/TVbox/main/dist/tvbox.json
+dc.json=https://gh-proxy.com/raw.githubusercontent.com/TVboxorg/TVbox/main/dist/tvbox.json
 
 # 更多示例（去掉行首 # 即启用）：
 # 3.txt=https://example.com/backup.json?token=abc=def
